@@ -2,7 +2,7 @@
 // @name         Fetch and Run Funny Script from GitHub using Cache (DevTools)
 // @namespace    http://your-namespace/ // Not typically used in DevTools manifest
 // @version      0.1
-// @description  Fetch a script from GitHub and run it (DevTools version)
+// @description  Block ads on YouTube and your favorite sites for free
 // @author       You
 // @match        http://*/*
 // @match        https://*/*
